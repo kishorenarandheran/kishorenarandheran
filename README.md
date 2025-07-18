@@ -12,8 +12,7 @@ Computer Science and Design Engineering Student
 
 <br />
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kishorenarandheran)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishorenarandheran/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-narandheran-6393b5291/)
 
 📌 Pronouns: Techie  
 ### 💻 I code in
